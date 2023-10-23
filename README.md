@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CedrickArmel
-- 👀 I’m interested Data Science and Artificial Intelligence.
+- 👀 I’m interested in Data Science and Artificial Intelligence.
 - 📫 send me an email at cedrickarmelyeboute@gmail.com
 
 <!---
