@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CedrickArmel
 - 👀 I’m interested in Data Science and Artificial Intelligence.
-- 📫 send me an email at cedrickarmelyeboute@gmail.com
+- 📫 send me an email at cedrickarmelyebouet@gmail.com
 
 <!---
 - 🌱 I’m currently learning Computer Vision and Time Series Forecasting.
